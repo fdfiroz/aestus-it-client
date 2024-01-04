@@ -1,14 +1,9 @@
-<svg width="1920" height="659" viewBox="0 0 1920 659" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_20_578)">
-<path d="M-104 329.5L19.5833 373.365C143.167 418.053 390.333 504.547 637.5 483.335C884.667 461.3 1131.83 329.5 1379 307.465C1626.17 286.253 1873.33 372.747 2120.5 362.45C2367.67 352.153 2614.83 240.947 2738.42 186.785L2862 131.8V659H2738.42C2614.83 659 2367.67 659 2120.5 659C1873.33 659 1626.17 659 1379 659C1131.83 659 884.667 659 637.5 659C390.333 659 143.167 659 19.5833 659H-104V329.5Z" fill="url(#paint0_radial_20_578)"/>
-</g>
+<svg width="1920" height="528" viewBox="0 0 1920 528" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-104 198.5L19.5833 242.365C143.167 287.053 390.333 373.547 637.5 352.335C884.667 330.3 1131.83 198.5 1379 176.465C1626.17 155.253 1873.33 241.747 2120.5 231.45C2367.67 221.153 2614.83 109.947 2738.42 55.7853L2862 0.799988V528H2738.42C2614.83 528 2367.67 528 2120.5 528C1873.33 528 1626.17 528 1379 528C1131.83 528 884.667 528 637.5 528C390.333 528 143.167 528 19.5833 528H-104V198.5Z" fill="url(#paint0_radial_20_579)"/>
 <defs>
-<radialGradient id="paint0_radial_20_578" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 -320.5) rotate(90) scale(943 5305.27)">
-<stop stop-color="#F9BC6E"/>
+<radialGradient id="paint0_radial_20_579" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 -451.5) rotate(90) scale(943 5305.27)">
+<stop stop-color="#1677FF"/>
 <stop offset="1" stop-color="white"/>
 </radialGradient>
-<clipPath id="clip0_20_578">
-<rect width="2966" height="659" fill="white" transform="translate(-104)"/>
-</clipPath>
 </defs>
 </svg>
